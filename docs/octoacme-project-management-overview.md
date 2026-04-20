@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Technical Lead: guides architecture decisions, mentors developers, and identifies technical risks.
+- UX Designer: designs user experiences, creates prototypes, and ensures usability and accessibility standards.
+- QA/Testing Lead: owns quality strategy, defines test plans, and coordinates testing efforts.
+- Customer Success/Support Liaison: channels customer feedback and advocates for supportability in feature design.
+- Documentation Specialist: maintains all project documentation and ensures knowledge is accurate and accessible.
 - Stakeholders: provide inputs and approvals.
+
+> For detailed responsibilities and interaction notes for each role, see [Roles & Personas](./octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -39,6 +45,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Weekly sync between PM + PdM
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
+- Design handoff reviews between UX Designer and Developers at sprint boundaries
+- QA/Testing Lead provides test status updates at weekly delivery sync
+- Customer Success/Support Liaison shares customer insights in monthly or milestone-based reviews
+- Documentation Specialist coordinates doc updates at each milestone
 - Ad-hoc escalations as needed
 
 ## How to use these docs

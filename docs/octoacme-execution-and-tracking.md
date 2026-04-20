@@ -4,9 +4,10 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Daily standups (15 min) — focus on progress, blockers, dependencies; include Technical Lead and QA/Testing Lead
+- Weekly delivery sync — show progress, updates, and flagged risks; QA/Testing Lead reports test status, UX Designer shares design progress
+- Demo/Review at the end of each sprint or milestone — include Customer Success/Support Liaison for user perspective feedback
+- Design handoff sessions — UX Designer presents completed designs to Developers before implementation begins
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -21,7 +22,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA for feature acceptance when needed — coordinated by QA/Testing Lead
+- UX Designer conducts usability reviews at design handoff and post-implementation
+- Customer Success/Support Liaison validates user-facing changes with select customers before release
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +41,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Design handoff sessions scheduled with UX Designer before each implementation sprint
+- [ ] QA/Testing Lead engaged in sprint planning and ready for test execution
+- [ ] Documentation Specialist reviewing and updating docs at each milestone
+- [ ] Customer Success/Support Liaison invited to sprint demos for user-facing changes
